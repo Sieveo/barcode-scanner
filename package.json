@@ -43,10 +43,10 @@
     "verify:web": "npm run build"
   },
   "devDependencies": {
-    "@capacitor/android": "^5.0.1",
-    "@capacitor/core": "^5.0.1",
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/core": "^7.0.0",
     "@capacitor/docgen": "0.2.1",
-    "@capacitor/ios": "^5.0.1",
+    "@capacitor/ios": "^7.0.0",
     "@ionic/eslint-config": "^0.3.0",
     "@ionic/prettier-config": "^3.0.0",
     "@ionic/swiftlint-config": "^1.1.2",
@@ -61,7 +61,7 @@
     "typescript": "~5.0.4"
   },
   "peerDependencies": {
-    "@capacitor/core": "^5.0.0"
+    "@capacitor/core": "^7.0.0"
   },
   "capacitor": {
     "ios": {
@@ -84,7 +84,7 @@
     "example": "examples"
   },
   "dependencies": {
-    "@zxing/browser": "^0.1.3",
-    "@zxing/library": "^0.20.0"
+    "@zxing/browser": "^0.1.5",
+    "@zxing/library": "^0.21.0"
   }
 }
